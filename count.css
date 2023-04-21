@@ -1,0 +1,27 @@
+h1{
+    margin-left: 40%;
+    
+}
+h2{
+    margin-left: 40%;
+}
+body{
+    background-color: black;
+    color: bisque;
+}
+#money{
+    margin-left: 40%;
+    font-size: 20px;
+}
+#people{
+    margin-left: 40%;
+    font-size: 20px;
+}
+#results{
+    margin-left: 40%;
+    font-size: 20px;
+}
+#display{
+    margin-left: 40%;
+    font-size: 20px;
+}
